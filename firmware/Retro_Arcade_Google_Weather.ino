@@ -37,8 +37,8 @@ const char* WIFI_SSID = "YOUR_WIFI_NAME";
 const char* WIFI_PASSWORD = "WIFI_PASSWORD";
 const char* GOOGLE_API_KEY = "YOUR_API_KEY";
 
-constexpr double LATITUDE = 18.596777;
-constexpr double LONGITUDE = 73.702147;
+constexpr double LATITUDE = YOUR_LOCATION_COORDINATES;
+constexpr double LONGITUDE = YOUR_LOCATION_COORDINATES;
 
 constexpr int OLED_WIDTH = 128;
 constexpr int OLED_HEIGHT = 64;
